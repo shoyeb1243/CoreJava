@@ -1,6 +1,6 @@
 package ControlStatement;
 
-public class ifStatement {
+public class SwitchStatement {
 
 	public static void main(String[] args) {
 int a=4;
